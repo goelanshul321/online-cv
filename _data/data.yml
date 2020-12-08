@@ -143,23 +143,31 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: NodeJS
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: MongoDB
+        level: 90%
+        
+      - name: Microservices
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Kubernates
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Socket Programming
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Redis Cache Databases
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: RabbitMQ Queues
+        level: 80%
+        
+      - name: Cloud Computing
+        level: 80%
+        
+      - name: Cluster Management
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
