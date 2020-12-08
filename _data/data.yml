@@ -58,6 +58,32 @@ experiences:
       company: Leher.ai Pvt. Ltd, Bangalore
       details: |
         [Leher](https://play.google.com/store/apps/details?id=com.leher&hl=en_IN): Leher is a network that connects people on LIVE Video Discussions around their interests and passions.
+        
+        Worked on Leher App.
+         - Built scalable, secure, tested, and reliable NodeJS Backend Microservices from scratch using REST API Architecture.
+         - Handled 50+ Microservices
+         - Implemented Elastic Search (AWS) and MongoDB Atlas Search
+         - Built Feed Algorithms using Redis Cache DB
+         - Built Direct Messaging Feature using Socket.IO
+         - Built and Designed media processing systems to handle video compressions, image compressions, audio transcriptions, image resizing by using **FFMPEG**, RabbitMQ Queues, AWS Lambda, AWS S3 in both serverless and standalone server environments
+         - Built Features Around Live Discussion Video Experience
+         - Built Recording Infrastructure for Leher Live using Agora.Io
+         - Built and Designed sound database schemas in No-SQL database(MongoDB), optimizing systems performance in query scenarios, and resources
+         - Managed and Deployed AWS ECS and Google Cloud Kubernate Clusters and setup autoscaling groups for better performance
+         - Built End To End User Experiences for Referral and Invite Journeys to Platform
+         - Built various social media app features such as video/topic post, video like/share/comment
+         - Managed and Deployed No-SQL Database(MongoDB) clusters
+         - Built Serverless functions to handle processing of data based upon user experiences and actions using AWS Lambda and Google Cloud Functions
+         - Integrated Various Third Party Services such as Sendy, Mailchimp, AWS SES, Branch.Io, Firebase SDK, AWS SQS, GCP Pub/Sub, Redis Pub/Sub.. according to business requirements
+        
+        Worked on Leher Websites and Content Management System
+         - Built Main Mobile Friendly Website for leher using HTML, CSS, Jquery [Leher.App](https://leher.app/)
+         - Worked On SEO Optimizations for [Leher.App](https://leher.app/)
+         - Built Mobile Friendly Website for View Experience of live discussions happening on app [Leher.Live](https://live.leher.app/)
+         - Built Content Management System for the content team to curate content created on app
+         - Integrated Google Analytics and Google Tag Manager for better insights on the website
+       
+        
     - role: Full Stack Developer Trainee
       time: 14/08/2018 - 30/10/2018
       company: Mountblue Technologies Pvt. Ltd, Bangalore
