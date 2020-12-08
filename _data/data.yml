@@ -53,26 +53,16 @@ education:
       university: Chitkara University
       time: 2015 - 2019
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer
+      time: 01/11/2018 - Present
+      company: Leher.ai Pvt. Ltd, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        [Leher](https://play.google.com/store/apps/details?id=com.leher&hl=en_IN): Leher is a network that connects people on LIVE Video Discussions around their interests and passions.
     - role: Full Stack Developer Trainee
       time: 14/08/2018 - 30/10/2018
       company: Mountblue Technologies Pvt. Ltd, Bangalore
       details: |
-         [Mountblue](https://www.mountblue.io/):WE CREATE GREAT ENGINEERS IN OUR CODING BOOTCAMPS, THAT ARE HELMED BY EXPERIENCED SOFTWARE ENGINEERS AND TECH ENTREPRENEURS
+         [Mountblue](https://www.mountblue.io/): WE CREATE GREAT ENGINEERS IN OUR CODING BOOTCAMPS, THAT ARE HELMED BY EXPERIENCED SOFTWARE ENGINEERS AND TECH ENTREPRENEURS
           
 skills:
     title: Skills &amp; Proficiency
